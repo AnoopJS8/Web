@@ -59,13 +59,23 @@ hr{
 
 /* HOME PAGE */
 .container .jumbotron {
-  /*box-shadow: 0 0 50px #3F0C1F;
-  border: 2px solid #3F0C1F;*/
+ /* box-shadow: 0 0 50px #3F0C1F;
+  border: 2px solid #3F0C1F;
+  */
   height: 1000px;
   background-color: #006600;
 
-.jumbotron h3{
+}
+ .jumbotron div{
 	color: #222;
 	font-weight: bold;
 	font-size: 1.5em;
+}
+
+.small{
+	background-color: grey;
+	font-family: arial;
+}
+.text-center{
+	font-weight: bold;
 }
