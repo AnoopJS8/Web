@@ -79,3 +79,7 @@ hr{
 .text-center{
 	font-weight: bold;
 }
+
+.nav-list p{
+	border: #222 1px;
+}
